@@ -1,4 +1,4 @@
-# Telegram-Orb 
+# Telegram-Orb  [![CircleCI](https://circleci.com/gh/pawanbahuguna/telegramorb/tree/main.svg?style=svg)](https://circleci.com/gh/pawanbahuguna/telegramorb/tree/main)
 Orb: https://circleci.com/developer/orbs/orb/pkb/telegram-orb
 
 # Why Telegram?
