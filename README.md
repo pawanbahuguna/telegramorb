@@ -1,6 +1,10 @@
 # Telegram-Orb  [![CircleCI](https://circleci.com/gh/pawanbahuguna/telegramorb/tree/main.svg?style=svg)](https://circleci.com/gh/pawanbahuguna/telegramorb/tree/main)
 Orb: https://circleci.com/developer/orbs/orb/pkb/telegram-orb
 
+
+# Description
+Send notification and status alerts to Telegram group/groups easily.
+
 # Why Telegram?
 
 1. Telegram groups can have up to 200,000 members.
@@ -24,9 +28,21 @@ More information: https://telegram.org/faq
 4. Set env var TELEGRAM_WEBHOOK & TELEGRAM_GROUPID in project settings.
 5. TELEGRAM_WEBHOOK is https://api.telegram.org/bot<BOT_API_TOKEN>
 
+# Screenshots
 
-# Description
-Send notification and status alerts to Telegram group/groups easily.
+**Build Passed**
+
+![Success](https://github.com/pawanbahuguna/telegramorb/blob/main/screenshots/Telegram_orb_pass.png)
+
+**Build Failed**
+
+![Success](https://github.com/pawanbahuguna/telegramorb/blob/main/screenshots/Telegram_orb_failed.png)
+
+
+**Message**
+
+![Success](https://github.com/pawanbahuguna/telegramorb/blob/main/screenshots/Telegram_orb_msg.png)
+
 
 # Issue/Feature Request
 
