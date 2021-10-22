@@ -201,7 +201,7 @@ jobs:
     executor: default
     steps:
       - checkout # check out the code in the project directory
-      - run: exit 0 # Success or Fail
+      - run: exit 1 # Success or Fail
       - notification:
           message: Message from Telegram-Orb 
       - status:
