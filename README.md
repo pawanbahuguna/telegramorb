@@ -46,4 +46,4 @@ More information: https://telegram.org/faq
 
 # Issue/Feature Request
 
-Please open a issue [here](https://github.com/pawanbahuguna/telegramorb/issues) with all the details
+Please open an issue [here](https://github.com/pawanbahuguna/telegramorb/issues) with all the details
